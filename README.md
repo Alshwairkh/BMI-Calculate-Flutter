@@ -12,4 +12,8 @@ In this project I learned:
 - How to customise Flutter Widgets to achieve a specific design style.
 
 
-<img class="image-align-left" src="dem02.png"/><img class="image-align-left" src="demo3.png"/>
+<p align="center">
+  <img alt="Light" src="dem02.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="demo3.png" width="45%">
+</p>
