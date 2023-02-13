@@ -13,7 +13,7 @@ In this project I learned:
 
 
 <p align="center">
-  <img alt="Light" src="dem02.png" width="20%">
+  <img alt="Light" src="dem02.png" width="33%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="demo3.png" width="20%">
+  <img alt="Dark" src="demo3.png" width="33%">
 </p>
